@@ -1,0 +1,11 @@
+instalar cmd:
+        pip install pyautogui pillow mouseinfo
+
+mouseinfo cmd:
+    from mouseinfo import mouseInfo
+    mouseInfo()
+
+vscode:
+    import pyautogui
+    from time import sleep
+    
